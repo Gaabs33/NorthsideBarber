@@ -86,4 +86,4 @@ The page uses semantic sections, real form labels, alt text, a skip link, focus-
 
 ## Author
 
-Portfolio concept by [Your Name].
+Portfolio concept by **Gabriel Alves**.
