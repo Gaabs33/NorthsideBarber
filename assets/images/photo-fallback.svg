@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Northside Barber Co. photographic placeholder">
+  <rect width="1200" height="900" fill="#292b24"/>
+  <path d="M0 700 250 410l170 170 170-220 260 340 160-180 190 220v160H0Z" fill="#525848" opacity=".75"/>
+  <circle cx="930" cy="230" r="130" fill="#c6b79b" opacity=".25"/>
+  <path d="M145 170h910M145 210h620M145 250h430" stroke="#f1ede5" stroke-width="2" opacity=".4"/>
+  <text x="145" y="790" fill="#f1ede5" font-family="Arial, sans-serif" font-size="28" letter-spacing="5">NORTHSIDE / IMAGE PLACEHOLDER</text>
+</svg>
