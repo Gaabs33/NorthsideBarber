@@ -6,7 +6,6 @@ Northside Barber Co. is a fictional, editorial-style portfolio site for an indep
 
 ## Screenshot
 
-Add a project screenshot here when presenting the work:
 
 <img width="1902" height="963" alt="image" src="https://github.com/user-attachments/assets/1539cc28-4ba4-4014-8bc2-46b8e7eec122" />
 
